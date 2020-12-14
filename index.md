@@ -28,3 +28,8 @@ The greatest passion I have found in the many aspects of computer science during
 
 This portfolio takes a sampling of the different projects that I have worked on and updates them to improve either their function or efficiency. The three categories of computer science artifacts to be used were software design and engineering, algorithms and data structure, and databases. For the software design and engineering category I selected a slideshow program I had created in a past course. The idea was to advertise travel destinations based on a user profile. The program was just for the slideshow of recommendations. For this portfolio I updated the program to better serve the purpose it would be used for. For the algorithms and data structure category I selected an authentication program that I had written pseudocode for. Tin the process of creating this portfolio I used the pseudocode to create a simple version of the program. For the databases category I selected previous work done working within a database. I updated the code to auto populate tables from a file input rather than line by line from a user. Each of these artifacts shows a different aspect of programming, and how I approach my work.
 
+
+[**Code Review](codereview.md)
+[Software Design and Engineering](softwaredesignengineering.md)
+[Algorithms and Data Structure](algorithmsdatastructure.md)
+[Databases**](databases.md)

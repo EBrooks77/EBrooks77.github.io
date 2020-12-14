@@ -30,9 +30,6 @@ This portfolio takes a sampling of the different projects that I have worked on 
 
 
 - [Code Review](codereview.md)
-
 - [Software Design and Engineering](softwaredesignengineering.md)
-
 - [Algorithms and Data Structure](algorithmsdatastructure.md)
-
 - [Databases](databases.md)

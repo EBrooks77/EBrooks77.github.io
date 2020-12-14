@@ -1,6 +1,5 @@
-# EBrooks77.github.io
-Computer Science Capstone
-
+# Computer Science Capstone
+EBrooks77.github.io
 
 # Self Assessment
 
